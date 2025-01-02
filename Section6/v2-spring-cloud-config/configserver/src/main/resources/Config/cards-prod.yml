@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to EazyBank cards Service related Prod APIs"
+  contactDetails:
+    name: "Srikanth - Product Owner"
+    email: "srikanth@gmail.com"
+  onCallSupport:
+    91-9876787656
+    91-9787654567

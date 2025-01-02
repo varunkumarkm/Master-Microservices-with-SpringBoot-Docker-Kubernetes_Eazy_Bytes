@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to EazyBank cards Service related QA APIs"
+  contactDetails:
+    name: "Prashant - QA Engineer"
+    email: "prashant@gmail.com"
+  onCallSupport:
+    - "91-9911356765"
+    - "91-9909878765"

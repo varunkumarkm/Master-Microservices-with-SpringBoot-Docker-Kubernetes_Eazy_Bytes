@@ -1,0 +1,12 @@
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to EazyBank loans Service related local APIs"
+  contactDetails:
+    name: "Varunkumar K M"
+    email: "varunkumar@gmail.com"
+  onCallSupport:
+    91-9898767654
+    91-9897667654
